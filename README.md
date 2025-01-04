@@ -1,19 +1,34 @@
 Overview 
+
 This repository contains SQL script with few queries from the popular Northwind database. These queries are tailored to analyze product inventory, sales trends, customer behaviors and other essential metrics for effective decision making.
 Schema Overview
+
 The Schema consists of the following tables
+
 •	Customers: This contains customer information
+
 •	Orders: Stores order details placed by customers
+
 •	Order details: Stores details of individual products in each order
+
 •	Products: Contains product information
+
 •	Categories: contains information about product category
+
 •	Suppliers: stores suppliers’ information
+
 •	Employees: contains employee’s details
+
 •	Shippers: stores information about shipping
+
 •	Customer demographics: contains customer demographics information
+
 •	Customer_customer_demo: This table connects customer and customer demo
+
 •	Territories: contains geographic territory information
+
 •	Region: stores regional information
+
 •	Employee_territories: connects employees and territories
 
 Queries Included
