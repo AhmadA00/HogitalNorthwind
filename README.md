@@ -1,7 +1,7 @@
-Overview 
+**Overview **
 
 This repository contains SQL script with few queries from the popular Northwind database. These queries are tailored to analyze product inventory, sales trends, customer behaviors and other essential metrics for effective decision making.
-Schema Overview
+**Schema Overview**
 
 The Schema consists of the following tables
 
@@ -31,7 +31,7 @@ The Schema consists of the following tables
 
 •	Employee_territories: connects employees and territories
 
-Queries Included
+**Queries Included**
 1.	Find all products and their category name 
 The query retrieves all product along with their associated category names
 2.	Find the most popular ordered product
@@ -54,11 +54,14 @@ List customers who have made at least one order
 Calculates total sales for each month
 11.	Find all orders with discounts
 Identifies all orders where a discount was applied
-Contribution
+
+**Contribution**
 Feel free to contribute to this project by:
 •	Suggesting new queries.
+
 •	Optimizing the existing queries.
+
 •	Providing insights on data visualization or analysis.
 
-License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details
